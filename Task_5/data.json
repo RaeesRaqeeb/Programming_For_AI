@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Alice",
+      "age": 25,
+      "country": "USA",
+      "skills": ["Python", "Java", "C++"]
+    },
+    {
+      "name": "Bob",
+      "age": 30,
+      "country": "Canada",
+      "skills": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+      "name": "Charlie",
+      "age": 35,
+      "country": "USA",
+      "skills": ["Python", "C#", "SQL"]
+    },
+    {
+      "name": "David",
+      "age": 40,
+      "country": "Canada",
+      "skills": ["Java", "C++", "C"]
+    },
+    {
+      "name": "Eve",
+      "age": 28,
+      "country": "USA",
+      "skills": ["JavaScript", "HTML", "CSS"]
+    },
+    {
+      "name": "Frank",
+      "age": 22,
+      "country": "UK",
+      "skills": ["Python", "Machine Learning", "Deep Learning"]
+    },
+    {
+      "name": "Grace",
+      "age": 32,
+      "country": "Australia",
+      "skills": ["Data Analysis", "SQL", "Excel"]
+    },
+    {
+      "name": "Henry",
+      "age": 45,
+      "country": "Germany",
+      "skills": ["C", "C++", "Embedded Systems"]
+    },
+    {
+      "name": "Isabella",
+      "age": 27,
+      "country": "France",
+      "skills": ["Python", "Data Science", "Statistics"]
+    },
+    {
+      "name": "Jack",
+      "age": 38,
+      "country": "Spain",
+      "skills": ["JavaScript", "React", "Node.js"]
+    }
+  ]
