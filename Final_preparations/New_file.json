@@ -1,0 +1,1 @@
+{"name": "John Doe", "age": 30, "is_employee": true, "grades": [95, 89, 92], "address": {"street": "123 Main St", "city": "New York"}, "is_active": false}

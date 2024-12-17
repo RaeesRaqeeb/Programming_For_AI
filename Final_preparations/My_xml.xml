@@ -1,0 +1,18 @@
+<MyRoot>
+
+    <book category="fiction">
+        <title lang="en">Introduction to XML</title>
+        <author>John Doe</author>
+        <price>19.95</price>
+    </book>
+    <book category="non-fiction">
+        <SubBooks>
+                <title> My Coding</title>
+                <code> 12312</code>
+        </SubBooks>
+        <title lang="en">Python Programming</title>
+        <author>Jane Smith</author>
+        <price>29.99</price>
+    </book>
+
+</MyRoot>

@@ -1,0 +1,11 @@
+Order_ID,Product_Category,Customer_Age,Purchase_Amount,City
+101,Electronics,25,500,New York
+102,Clothing,30,200,Los Angeles
+103,Electronics,35,700,Chicago
+104,Books,22,150,New York
+105,Clothing,28,300,Los Angeles
+106,Electronics,40,800,Chicago
+107,Books,20,100,New York
+108,Clothing,32,250,Los Angeles
+109,Electronics,38,600,Chicago
+110,Books,24,120,New York
